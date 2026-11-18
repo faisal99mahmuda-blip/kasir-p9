@@ -27,12 +27,12 @@ Versi PHP: PHP 8.2.12
 ## 5. Hasil uji fungsional
 | No | Uji | Hasil (Lulus/Gagal) |
 |----|-----|---------------------|
-| 1 | Keranjang bertahan | |
-| 2 | Password tersimpan sebagai hash | |
-| 3 | Regenerasi session | |
-| 4 | Tolak request tanpa token | |
-| 5 | Pesan login umum | |
-| 6 | Halaman terproteksi | |
+| 1 | Keranjang bertahan | Lulus |
+| 2 | Password tersimpan sebagai hash | Lulus |
+| 3 | Regenerasi session | Lulus |
+| 4 | Tolak request tanpa token | Lulus |
+| 5 | Pesan login umum | Lulus |
+| 6 | Halaman terproteksi | Lulus |
 
 ## 6. Pertanyaan
 1. Mengapa isi keranjang tidak terlihat di cookie browser?
